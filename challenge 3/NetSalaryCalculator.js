@@ -129,4 +129,4 @@ const nssfDeduction=0
   
     //testing 
 
-    console.log("Your net Salary is ",netSalary(60000))
+    console.log("Your net Salary is ",netSalary(70000))

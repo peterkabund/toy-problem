@@ -21,4 +21,4 @@ function Speedchecker(speed) {
     //We try testing by calling the function while passing a speed
       //Speedchecker(100);
      }
-    console.log(Speedchecker(78))
+    console.log(Speedchecker(100))
